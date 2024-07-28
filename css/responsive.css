@@ -1,0 +1,72 @@
+@media (max-width: 375px){
+    .omelete{
+        width: 375px;
+        border-radius: 0;
+        margin: 0px;
+    }
+
+    body{
+        width: 375px;
+        padding: 0px;
+        margin: 0px;
+        border-radius: 0px;
+        min-width: 375px;
+    }
+
+    .cabecalho .title{
+        font-size: 35px;
+        color: black;
+        padding-left: 35px;
+        line-height: 35px;
+    }
+
+    .cabecalho h4{
+        padding: 0px 32px;
+    }
+
+    .imagem{
+        width: 375px;
+    }
+
+    .preparation{
+        width: 275px;
+        margin: auto;
+
+    }
+
+    .ingred{
+        width: 340px;
+        padding-left: 35px;
+    }
+
+    .ingred .titingred{
+        margin-top: 25px;
+    }
+
+    .instr{
+        width: 340px;
+    }
+
+    .instr h2{
+        margin-top: 15px;
+        padding-left: 20px;
+    }
+
+    .instr li{
+        margin-left: 42px;
+    }
+
+    .nutri{
+        width: 340px;
+        padding-left: 35px;
+    }
+
+    .boxlist{
+        width: 310px;
+
+    }
+
+    .boxlist ul li{
+        padding: 13px 50px 12px 50px;
+    }
+}
